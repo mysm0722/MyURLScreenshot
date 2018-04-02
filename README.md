@@ -7,7 +7,9 @@ $ npm install
 # Usage
 
 $ # URL Crawler & Converting
+
 $ node app.js
 
 $ # Image Store & Server
+
 $ # NCP File Storage 
