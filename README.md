@@ -2,7 +2,7 @@
 Convert URL to Screenshot Image
 
 # Installation
-$ npm install
+$ npm install\n
 $ npm install pageres
 $ npm install pageres-cli
 
